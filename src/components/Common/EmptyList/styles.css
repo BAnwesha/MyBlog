@@ -1,0 +1,9 @@
+.elwrap{
+    display: flex;
+    justify-content: center;
+}
+
+.elwrap img{
+    max-width: 250px;
+    width: 100%;
+}

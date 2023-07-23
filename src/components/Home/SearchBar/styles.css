@@ -1,0 +1,36 @@
+.SBwrap{
+    background-color: rgb(199, 198, 197);
+    width: fit-content;
+    margin: 2.5rem auto 4rem auto;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+.SBwrap form{
+    display: flex;
+    align-items: center;
+}
+
+.SBwrap input{
+    border: none;
+    outline: none;
+    background-color: rgb(199, 198, 197);
+    color:black
+}
+
+.SBwrap span{
+    padding-right: 0.5rem;
+    cursor: pointer;
+}
+
+.SBwrap button{
+    outline: none;
+    border: none;
+    padding: 0.3rem 1 rem;
+    border-radius: 5px;
+    background-color: rgb(7, 61, 61);
+    color: white;
+    cursor: pointer;
+
+}
+
